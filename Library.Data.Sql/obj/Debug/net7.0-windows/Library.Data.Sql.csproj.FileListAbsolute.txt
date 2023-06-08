@@ -1,0 +1,32 @@
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.dll.config
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.deps.json
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.dll
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.pdb
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.IF.dll
+C:\Users\user\source\repos\Library\Library.Data.Sql\bin\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.AssemblyInfo.cs
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.CopyComplete
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.dll
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\refint\Library.Data.Sql.dll
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.pdb
+C:\Users\user\source\repos\Library\Library.Data.Sql\obj\Debug\net7.0-windows\ref\Library.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.dll.config
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.Data.Sql.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.csproj.CopyComplete
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\refint\Library.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Library.Data.Sql.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\ref\Library.Data.Sql.dll

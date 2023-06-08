@@ -1,0 +1,30 @@
+C:\Users\user\source\repos\Library\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.deps.json
+C:\Users\user\source\repos\Library\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.dll
+C:\Users\user\source\repos\Library\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.pdb
+C:\Users\user\source\repos\Library\Library.Data.Memory\bin\Debug\net7.0-windows\Library.IF.dll
+C:\Users\user\source\repos\Library\Library.Data.Memory\bin\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.AssemblyInfo.cs
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.CopyComplete
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.dll
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\refint\Library.Data.Memory.dll
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.pdb
+C:\Users\user\source\repos\Library\Library.Data.Memory\obj\Debug\net7.0-windows\ref\Library.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\Library.Data.Memory.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.csproj.CopyComplete
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\refint\Library.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\Library.Data.Memory.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\ref\Library.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.IF.pdb

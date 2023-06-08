@@ -1,0 +1,16 @@
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Music.Data.Sql.dll.config
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Music.Data.Sql.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Music.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\Music.Data.Sql.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.csproj.CopyComplete
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\refint\Music.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\Music.Data.Sql.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\obj\Debug\net7.0-windows\ref\Music.Data.Sql.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Sql\bin\Debug\net7.0-windows\MusicApp.IF.pdb

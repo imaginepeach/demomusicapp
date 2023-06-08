@@ -1,0 +1,5 @@
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0\Library.IF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0\Library.IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0\Library.IF.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0\Library.IF.AssemblyInfo.cs
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0\Library.IF.csproj.CoreCompileInputs.cache

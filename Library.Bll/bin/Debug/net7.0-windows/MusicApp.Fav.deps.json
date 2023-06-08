@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "MusicApp.Fav/1.0.0": {
+        "dependencies": {
+          "MusicApp.IF": "1.0.0"
+        },
+        "runtime": {
+          "MusicApp.Fav.dll": {}
+        }
+      },
+      "MusicApp.IF/1.0.0": {
+        "runtime": {
+          "MusicApp.IF.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MusicApp.Fav/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MusicApp.IF/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

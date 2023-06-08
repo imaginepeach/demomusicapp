@@ -1,0 +1,15 @@
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.Data.Memory.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.Data.Memory.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\bin\Debug\net7.0-windows\MusicApp.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.csproj.CopyComplete
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\refint\MusicApp.Data.Memory.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\MusicApp.Data.Memory.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Data.Memory\obj\Debug\net7.0-windows\ref\MusicApp.Data.Memory.dll

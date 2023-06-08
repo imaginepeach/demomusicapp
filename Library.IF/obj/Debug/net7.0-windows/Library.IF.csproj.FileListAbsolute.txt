@@ -1,0 +1,24 @@
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.AssemblyInfo.cs
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Library\Library.IF\bin\Debug\net7.0-windows\Library.IF.deps.json
+C:\Users\user\source\repos\Library\Library.IF\bin\Debug\net7.0-windows\Library.IF.dll
+C:\Users\user\source\repos\Library\Library.IF\bin\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.dll
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\refint\Library.IF.dll
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\user\source\repos\Library\Library.IF\obj\Debug\net7.0-windows\ref\Library.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\Library.IF.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\Library.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\refint\Library.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\Library.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\ref\Library.IF.dll

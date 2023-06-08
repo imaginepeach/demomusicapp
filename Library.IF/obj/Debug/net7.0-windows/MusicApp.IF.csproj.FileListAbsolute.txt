@@ -1,0 +1,12 @@
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\MusicApp.IF.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\bin\Debug\net7.0-windows\MusicApp.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\refint\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\MusicApp.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.IF\obj\Debug\net7.0-windows\ref\MusicApp.IF.dll

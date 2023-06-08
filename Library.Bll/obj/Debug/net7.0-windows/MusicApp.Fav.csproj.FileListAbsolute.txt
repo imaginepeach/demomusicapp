@@ -1,0 +1,15 @@
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\bin\Debug\net7.0-windows\MusicApp.Fav.deps.json
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\bin\Debug\net7.0-windows\MusicApp.Fav.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\bin\Debug\net7.0-windows\MusicApp.Fav.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\bin\Debug\net7.0-windows\MusicApp.IF.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\bin\Debug\net7.0-windows\MusicApp.IF.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.csproj.AssemblyReference.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.AssemblyInfoInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.AssemblyInfo.cs
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.csproj.CoreCompileInputs.cache
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.csproj.CopyComplete
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\refint\MusicApp.Fav.dll
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\MusicApp.Fav.pdb
+C:\Users\kate1\OneDrive\Рабочий стол\лера\Library.Bll\obj\Debug\net7.0-windows\ref\MusicApp.Fav.dll

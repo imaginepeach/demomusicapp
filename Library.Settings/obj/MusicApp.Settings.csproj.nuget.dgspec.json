@@ -1,0 +1,324 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Settings\\MusicApp.Settings.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\MusicApp.Fav.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\MusicApp.Fav.csproj",
+        "projectName": "MusicApp.Fav",
+        "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\MusicApp.Fav.csproj",
+        "packagesPath": "C:\\Users\\kate1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kate1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\MusicApp.Data.Memory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\MusicApp.Data.Memory.csproj",
+        "projectName": "MusicApp.Data.Memory",
+        "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\MusicApp.Data.Memory.csproj",
+        "packagesPath": "C:\\Users\\kate1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kate1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\Music.Data.Sql.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\Music.Data.Sql.csproj",
+        "projectName": "Music.Data.Sql",
+        "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\Music.Data.Sql.csproj",
+        "packagesPath": "C:\\Users\\kate1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kate1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj",
+        "projectName": "MusicApp.IF",
+        "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj",
+        "packagesPath": "C:\\Users\\kate1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kate1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Settings\\MusicApp.Settings.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Settings\\MusicApp.Settings.csproj",
+        "projectName": "MusicApp.Settings",
+        "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Settings\\MusicApp.Settings.csproj",
+        "packagesPath": "C:\\Users\\kate1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Settings\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kate1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0-windows7.0": {
+            "targetAlias": "net7.0-windows",
+            "projectReferences": {
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\MusicApp.Fav.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Bll\\MusicApp.Fav.csproj"
+              },
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\MusicApp.Data.Memory.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Memory\\MusicApp.Data.Memory.csproj"
+              },
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\Music.Data.Sql.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.Data.Sql\\Music.Data.Sql.csproj"
+              },
+              "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj": {
+                "projectPath": "C:\\Users\\kate1\\OneDrive\\Рабочий стол\\лера\\Library.IF\\MusicApp.IF.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0-windows7.0": {
+          "targetAlias": "net7.0-windows",
+          "dependencies": {
+            "SimpleInjector": {
+              "target": "Package",
+              "version": "[5.4.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
